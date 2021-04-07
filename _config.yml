@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "윤건"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/sh0tgun.jpg"
   bio              : "나는 개쩌는 K-고딩이다."
   location         : "대한민국 화성"
   email            : "yoongun20040319@gmail.com"
